@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&family=Open+Sans&display=swap");
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=El+Messiri">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Assistant">
+@import url("https://fonts.googleapis.com/css?family=El+Messiri");
+@import url("https://fonts.googleapis.com/css?family=Assistant");
 
 .hero-section .hero-content .scroll-bottom, .feature-section .single-feature .icon, .box-style .icon, .footer .widget-wrapper .footer-widget .socials li a {
   display: -webkit-box;
